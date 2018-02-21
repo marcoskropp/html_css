@@ -1,0 +1,77 @@
+body header{
+	background: white;
+	display: flex;
+	justify-content: space-around;
+	padding: 0vw 0vw -1.4vw 0vw;
+}
+
+body header h1{
+	font-size: 2vw;
+	color: #80848D;
+	margin: 1.9vw 4.8vw 1.5vw 0vw;
+}
+
+body header nav ul{
+	display: flex;
+	margin: 0.9vw 0.9vw 0.5vw 0.9vw;
+}
+
+body header nav ul li{
+	padding: 1.3vw 1.5vw 1.5vw 1.5vw;
+}
+
+body header nav ul li a {
+	text-decoration: none;	
+	color: #92979D;
+}
+
+body header nav ul li.atual {
+	margin: 5px 10px 15px 5px;
+	padding: 13px 30px 13px 30px;
+	border-radius: 25px;
+	font-size: 1.1vw;
+	background: #0EC0DE;
+}
+
+body header nav ul li.atual a {
+	color: white;
+}
+
+body section#ourmission{
+	background: linear-gradient(rgba(100, 100, 100, 0.5),rgba(100, 100, 100, 0.5)	), url("../img/foto_banner.jpg") no-repeat;
+	width:1440px; 
+  	height:600px;
+}
+
+body section#ourmission div{
+	color: white;
+	text-align: center;
+	padding: 30vw 0vw 0vw 0vw;
+}
+
+body section#ourmission div h1{
+	
+	font-size: 4vw;
+}
+
+body section#ourmission div p{
+	padding: 2vw 25vw 0vw 25vw; 
+	font-size: 1.5vw;
+}
+
+body section#About {
+	margin: 3vw;
+}
+
+body section#About h1{
+	text-align: center;
+	font-size: 3vw;
+	color:#00C8E0;
+}
+body section#About p{
+	font-size: 1.6vw;
+	color: #49494B;
+	text-align: center;
+	padding: 2vw 14vw 0vw 14vw; 
+	line-height: 2.5vw;
+	}
