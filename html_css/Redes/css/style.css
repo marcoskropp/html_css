@@ -1,0 +1,105 @@
+
+
+body section#first{
+	background: #E2E2E2;
+	padding: 12.5vw;
+}
+body section#first{
+	display: flex;
+	justify-content: space-between;
+
+}
+
+body section#first ul li#twi a img {
+
+	padding: 30px;
+	background: #5BC9EE;
+
+}
+
+body section#first li#face a img {
+	padding: 30px;
+	background: #4d6299;
+
+}
+
+body section#first li#drib a img {
+	padding: 30px;
+	background: #ee5b92;
+}
+
+body section#first div#div1 ul li#twi{
+	line-height: 1px;
+}
+
+body section#first div#div1 ul li#face{
+	line-height: 1px;
+	}
+body section#first div#div1 ul{
+	display: flex;
+
+}
+
+body section#first div#div1{
+	background: white;
+	padding: 0vw 6vw 0vw 0vw;
+}
+
+body section#first div#div1 ul li.pc{
+	padding: 3vw 0vw 0vw 5vw;
+	color: #A2A2A2;
+	font-size: 3.5vw;
+}
+
+body section#first div#div1 ul li.pc p.pca{
+	color: #BCBCBC;
+	font-size: 1.5vw;
+}
+body section#first div#div2{
+
+	color: grey;
+	font-size: 1.5vw;
+
+}
+
+body section#first div#div2 ul{
+	display: flex;	
+	padding: 3vw;
+	background: white;
+}
+body section#first div#div2 h1{
+	padding: 2vw 0vw 0vw 0vw;
+	text-align: center;
+	background: white;
+}
+
+
+body section#first div#div2 ul li#twi2 a img {
+
+	padding: 25px;
+	background: #5BC9EE;
+	border-radius: 10vw;
+}
+
+body section#first div#div2 li#face2 a img {
+	padding: 25px;
+	background: #4d6299;
+	border-radius: 10vw;
+}
+
+body section#first div#div2 li#drib2 a img {
+	padding: 25px;
+	background: #ee5b92;
+	border-radius: 10vw;
+}
+
+	
+
+body section#first div#div2 ul li{
+padding: 0vw 3.5vw 0vw 0vw;
+}
+
+
+body section#first div#div2 ul p{
+	padding: 1.5vw 0vw 0vw 1vw;
+}

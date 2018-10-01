@@ -1,0 +1,49 @@
+body{
+	background-color: white;
+	color: #B7B7B7;
+}
+
+
+body section{
+	display: flex;
+}
+body section form fieldset{
+	padding: 2.5vw 0vw 0vw 0.3vw;
+}
+body section form fieldset input{
+	margin: 0.8vw 0vw 0.8vw 0vw;
+	padding: 0.2vw 4vw 0.2vw 0vw;
+}
+
+body section form{
+	height: 25vw;
+	width: 20vw;
+}
+
+body section div img{
+	height: 25vw;
+	width: 20vw;
+	margin: 0vw 2vw 0vw 0vw;
+}
+
+body section form fieldset input#b{
+	margin: 1vw 1vw 3vw 0vw;
+}
+body section form fieldset label#a a{
+	text-decoration: none;
+	color: white;	
+
+}
+
+body section form fieldset label#c a{
+
+	color: #B7B7B7;	
+
+}
+
+body section form fieldset label#a{
+	padding: 0.5vw 1vw;
+	border-radius: 2vw;
+	background: #111111;
+
+}
