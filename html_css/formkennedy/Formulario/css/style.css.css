@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+body{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+body{
+	background: #BEBDB8;
+
+}
+body section fieldset{
+	width: 30%;
+	height:27vw;
+	background: #24323D;
+	text-align: center;
+	margin: 13vw 40vw 0vw 32vw;
+}
+
+body section fieldset nav{
+	display: flex;
+	justify-content: center;
+}
+
+body section fieldset nav p{
+	padding: 0.8vw 4.8vw;
+	color: white;
+}
+
+body section fieldset nav p#color{
+	background: #1AB188;
+}
+body section fieldset nav p#mod{
+	background: #435259;
+}
+
+body section fieldset h1{
+	text-align: center;
+	color: white;
+}
+
+
+body section fieldset input{
+	background: #24323B;
+	border: 1px solid #5F6D76;
+	padding: 0.5vw 0.4vw;
+	margin: 0vw 1vw 2vw 0vw;
+}
+
+
+body section fieldset input.moda{
+	padding: 0.5vw 15.5vw 0.5vw 0vw;
+}
+
+body section a{
+	text-decoration: none;
+	color: white;
+	font-size: 2vw;
+	margin: 0vw 0.6vw 0.2vw 0vw;
+	padding: 0.5vw 9vw 0.5vw 11vw;
+	background: #1AB188;
+}
